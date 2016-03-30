@@ -13,14 +13,12 @@ Fifth time.
 
 Sixth time. 
 
-<<<<<<< HEAD
-Seventh time. Close with command. Desktop client doesn't refresh immediately. Have to to click on newest commit box.
+7th time.
 
-Eighth time.
+8th time.
 
-9th.
-=======
-Seventh time. Close with command. Desktop client doesn't refresh immediately. Have to to click on newest commit box.
->>>>>>> parent of 6cd881b... 8th try.
+9th time.
 
-10th try. 
+10th time.
+
+Does quitting the app auto sync to remote server? 
