@@ -20,3 +20,5 @@ Sixth time.
 9th time.
 
 10th time.
+
+Does quitting the app auto sync to remote server? 
