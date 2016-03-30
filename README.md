@@ -22,3 +22,5 @@ Sixth time.
 10th time.
 
 Does quitting the app auto sync to remote server? 
+
+Will merge from desktop client. 
