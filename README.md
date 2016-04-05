@@ -24,3 +24,7 @@ Sixth time.
 Does quitting the app auto sync to remote server? 
 
 Will merge from desktop client. 
+
+Hi!
+
+Lights!
