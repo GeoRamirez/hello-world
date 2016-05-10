@@ -28,3 +28,9 @@ Will merge from desktop client.
 Hi!
 
 Lights!
+
+Camera!
+
+Action!
+
+Save!
